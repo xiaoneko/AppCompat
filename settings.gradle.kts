@@ -12,10 +12,10 @@ dependencyResolutionManagement {
     google()
     mavenCentral()
     maven("https://jitpack.io")
+    maven("https://maven.pkg.jetbrains.space/kotlin/p/kotlin/bootstrap")
   }
 }
 
-val string = "Version"
-rootProject.name = "$string"
+rootProject.name = "termux"
 
 include(":app")
