@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+  <shortcut
+    android:shortcutId="image"
+    android:enabled="true"
+    android:icon="@drawable/ic_xyn_tup"
+    android:shortcutShortLabel="@string/xyn_add_1"
+    android:shortcutLongLabel="@string/xyn_add_2">
+    <intent
+      android:action="android.intent.action.VIEW"
+      android:targetPackage="Android.XiaomiHyperOS.CuteKitty"
+      android:targetClass="app.ImageActivity" />
+    <categories android:name="android.shortcut.conversation" />
+    <capability-binding android:key="actions.intent.CREATE_MESSAGE" />
+  </shortcut>
+</shortcuts>

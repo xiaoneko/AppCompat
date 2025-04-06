@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用图标背景颜色 -->
+    <color name="xml_xiao_v2">#C7DEF8</color>
+    <!-- 应用图标颜色 -->
+    <color name="xml_xiao_v3">#FF9612ED</color>
+    
+    <color name="atek_meun_color">#FF101010</color>
+    <color name="com_app">#C7DEF8</color>
+    <color name="com_app_c">#FFD967D6</color>
+    <color name="com_app_s">#FFE1B0FF</color>
+    <color name="com_apps">#FFD967D6</color>
+    <color name="com_apps_c">#FFD967D6</color>
+    <color name="com_apps_s">#D5C48DE3</color>
+    <color name="com_apps_ss">#D5C48DE3</color>
+    <color name="lxyn_dialog_background">#C7DEF8</color>
+    <color name="task_dialog_background">#D5C48DE3</color>
+    <color name="task_save_card">#C7DEF8</color>
+    <color name="task_save_text">#FF142DF4</color>
+    <color name="task_save_edit">#FF9612ED</color>
+    <color name="task_save_view">#FF9612ED</color>
+    <color name="task_save_button">#99D9EE</color>
+    <color name="task_menu_item_color">#FF13EDE9</color>
+    <color name="lxyn_activity_text">#FF142DF4</color>
+    <color name="lxyn_activity_button">#99D9EE</color>
+    <color name="lxyn_activity_button_text">#FF142DF4</color>
+    <color name="lxyn_activity_seekbar_a">#FF9612ED</color>
+    <color name="lxyn_activity_seekbar_b">#FF142DF4</color>
+    <color name="lxyn_activity_seekbar_c">#FFE1B0FF</color>
+    <color name="lxyn_activity_card">#C7DEF8</color>
+    <color name="task_valo_card">#C7DEF8</color>
+    <color name="task_activity_toolbar">#C7DEF8</color>
+    <color name="lxyn_activity_toolbar">#C7DEF8</color>
+    <color name="task_vote_tab">#99D9EE</color>
+    <color name="image_activity_toolbar">#CCDFDFDF</color>
+    <color name="image_theme">#FFD967D6</color>
+</resources>

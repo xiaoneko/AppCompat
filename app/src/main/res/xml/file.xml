@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+       <assets-path name="assets_files" path="UTF-8" />
+       <xml-path name="xml" path="UTF-8" />
+       <key-path name="key" path="UTF-8" />
+       <yml-path name="yml" path="UTF-8" />
+       <json-path name="json" path="UTF-8" />
+       <linux-path name="shell" path="UTF-8" />
+       <java-path name="jar" path="UTF-8" />
+       <kotlin-path name="kts" path="UTF-8" />
+       <bin-path name="bin" path="UTF-8" />
+       <cpu-path name="cpu" path="UTF-8" />
+</paths>

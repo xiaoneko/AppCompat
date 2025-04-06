@@ -16,6 +16,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "termux"
+rootProject.name = "xiao"
 
 include(":app")
