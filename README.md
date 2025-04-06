@@ -8,7 +8,7 @@ AndroidIDE & Android Studio
 
 ### 环境配置
 
-JDK21、Kotlin-2.1.20、Gradle-8.9.1、NDK-r27
+JDK21、Kotlin-2.1.20、Gradle-8.9.1、NDK-r27、Android SDK35
 
 ## 项目不可编译警告
 
